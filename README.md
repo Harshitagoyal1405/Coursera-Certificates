@@ -1,7 +1,7 @@
 # 📘 Lab Assignments Repository
 
 This repository contains **lab-wise organized files** for UCS654-Predictive Analytics using Statistics.  
-Each lab folder includes its respective files, with links of certificates provided below.
+Each lab folder includes its respective Guided Projects certificates, with links to certificates provided below.
 
 ---
 ## 🎓My Details
