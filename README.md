@@ -4,12 +4,10 @@ This repository contains **lab-wise organized files** for UCS654-Predictive Anal
 Each lab folder includes its respective Guided Projects certificates, with links to certificates provided below.
 
 ---
-
 ## 🎓My Details
-
 - **Name:** Harshita Goyal
-- **Roll NO:** 102303491
-- **Course Code** UCS654
+- **Roll NO:** 102303491  
+- **Course Code** UCS654  
 - **Course Name:** Predictive Analytics using Statistics
 
 ## 📂 Repository Structure
@@ -23,6 +21,7 @@ All files are organized into folders named according to their lab numbers.
 Working with BigQuery: https://coursera.org/share/37473039cf77b166f241f7ee405423c1
 
 GenAI Basics - How LLMs Work: https://coursera.org/share/5d58b78aa70c7430ca130a2c1041c5d9
+
 
 **LAB-02**
 
